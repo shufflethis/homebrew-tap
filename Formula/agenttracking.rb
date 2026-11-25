@@ -1,8 +1,8 @@
 class Agenttracking < Formula
   desc "Zero-prompt circuit breaker, MCP security audit & fleet monitor for Claude Code, Cursor, Codex, Gemini & cron"
   homepage "https://agenttracking.co"
-  url "https://github.com/shufflethis/agent-tracking/releases/download/v0.6.2/agenttracking-0.6.2.tgz"
-  sha256 "9114148319f10180d8d79f88c6dcdbecbfead6e5434d4d337e35f3bf5b135e19"
+  url "https://github.com/shufflethis/agent-tracking/releases/download/v0.6.3/agenttracking-0.6.3.tgz"
+  sha256 "d8fc80d17e691847b8e6971ad0276ba028e5ef5ebec3b8430869213d29e22be4"
   license "AGPL-3.0-only"
 
   depends_on "node"
